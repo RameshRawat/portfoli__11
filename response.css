@@ -25,4 +25,7 @@
     display: block;
     font-size: 20px;
   }
+  .icon--linkedin {
+    display: flex;
+  }
 } ;
