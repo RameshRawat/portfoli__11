@@ -333,8 +333,8 @@
   /* text-align: center;   */
   align-items: center;
 }
-.d-block {
-  display: block;
+.d-flex {
+  display: flex;
 }
 .child-left-contact {
   /* border: 1px solid red; */
@@ -474,4 +474,11 @@
 }
 .bar.expert::before {
   width: calc(90% - 10px);
+}
+
+.fa-times {
+  content: "\f00d";
+}
+.fa-bars {
+  content: "\f0c9";
 }
